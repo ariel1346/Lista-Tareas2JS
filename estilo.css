@@ -1,0 +1,24 @@
+ .navbar {
+    /* font-weight: bold;    */
+    text-align: center;
+    padding: 30px;
+} 
+
+.navbar-brand {
+    font-size: 30px;
+    color: blue;
+}
+
+
+.form-group {
+    margin: 10px 0 0 0;
+}
+
+.navbar-brand:hover {
+    background-color: aquamarine;
+} 
+
+.btn {
+   /* width: 100%; */
+   margin: 10px 0 0 0;
+}
